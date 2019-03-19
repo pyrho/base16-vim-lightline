@@ -1,4 +1,4 @@
-let s:base00 = [ '#282c34',  0 ] " black
+let s:base00 = [ '#40454f',  0 ] " black
 let s:base01 = [ '#353b45', 18 ]
 let s:base02 = [ '#3e4451', 19 ]
 let s:base03 = [ '#545862',  8 ]
