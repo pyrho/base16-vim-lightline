@@ -22,7 +22,7 @@ let s:p.normal.left     = [ [ s:base00, s:base0D, 'bold' ], [ s:base05, s:base02
 let s:p.insert.left     = [ [ s:base01, s:base0B, 'bold' ], [ s:base05, s:base02 ] ]
 let s:p.visual.left     = [ [ s:base00, s:base09, 'bold' ], [ s:base05, s:base02 ] ]
 let s:p.replace.left    = [ [ s:base00, s:base08, 'bold' ], [ s:base05, s:base02 ] ]
-let s:p.inactive.left   = [ [ s:base02, s:base00 ] ]
+let s:p.inactive.left   = [ [ s:base04, s:base00 ] ]
 
 let s:p.normal.middle   = [ [ s:base07, s:base01 ] ]
 let s:p.inactive.middle = [ [ s:base01, s:base00 ] ]
